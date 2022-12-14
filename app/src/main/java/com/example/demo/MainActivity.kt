@@ -29,6 +29,6 @@ fun main() {
     val myMinShortValue: Short = Short.MIN_VALUE
     println ("Short maximum value is:$myMaxShortValue")
     println ("short minimum value is:$myMinShortValue")
-
+    println("success")
 
 }
